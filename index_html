@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="Es">
+<head>
+    <link rel=" preconnect" href=" https://font.gstatic.com" >
+    <link href=" https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel=" hoja de estilo"
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style_css">
+    <title>Actividad 2</title>
+</head>
+<body>
+    <h1>Esta es la actividad 2 del segundo modulo de mi proyecto web</h1>
+
+</body>
+</html>
